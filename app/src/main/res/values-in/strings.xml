@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="btn_mvlist">List Film</string>
+    <string name="btn_lang">Bahasa</string>
+    <string name="btn_about">Tentang</string>
+    <string name="nama">Nur Fikri</string>
+    <string name="nim">(19.11.2790)</string>
+    <string name="tv_release">Rilis : </string>
+    <string name="tv_watched">Ditonton : </string>
+    <string name="movie_label">Direktori Film</string>
+    <string name="made_by">Dibuat Oleh :</string>
+    <string name="app_desc">Aplikasi ini dibuat untuk keperluan tugas perkuliahan saya di Universitas Amikom Yogyakarta. Aplikasi ini adalah aplikasi katalog film dimana anda bisa menemukan film-film terbaik menurut IMDB.</string>
+</resources>

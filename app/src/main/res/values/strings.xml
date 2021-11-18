@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <string name="btn_mvlist">Movie List</string>
+    <string name="btn_lang">Language</string>
+    <string name="btn_about">About</string>
+    <string name="nama">Nur Fikri</string>
+    <string name="nim">(19.11.2790)</string>
+    <string name="tv_release">Release : </string>
+    <string name="tv_watched">Watched : </string>
+    <string name="movie_label">Movie Directory</string>
+    <string name="made_by">Made By :</string>
+    <string name="app_desc">This application was made for the purposes of my lectures at Amikom University Yogyakarta. This app is a movie catalog app where you can find the best movies according to IMDB.</string>
+</resources>
