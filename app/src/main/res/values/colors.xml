@@ -9,7 +9,7 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="greu_lv9">#212529</color>
-    <color name="greu_lv8">#343a40</color>
+        <color name="greu_lv8">#343a40</color>
     <color name="greu_lv7">#495057</color>
     <color name="greu_lv6">#6c757d</color>
     <color name="greu_lv5">#adb5bd</color>
